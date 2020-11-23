@@ -1,27 +1,10 @@
-p {
-        color: green;
-    }
-	
-	h1 {
-        color: gray;
-    }
-	
-	h2 {
-        color: purple;
-    }
-	
-	h3 {
-        color: lime;
-    }
-	
-	table {
-        color: yellow;
-    }
-	
-	ul {
-        color: red;
-    }
 
-    a {
-        color: blue;
-    }
+	body {
+    font-size: 15px;
+    color: navy;
+}
+
+h1 {
+    color: #FFCD00;
+  background-color: #900E8A;
+}
